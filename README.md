@@ -31,7 +31,7 @@ Some of my prefered projects from games to graphics programing in my thesis
   <b>c++</b>
   <p>My theses where i implemented a Two-Level Light BVH to accelarate raytracing. Using Nvidea's Falcor engine as a base to upgrade.</p>
 </p>
-</br></br>
+</br>
   
 <p align="left">
   <a href="https://github.com/PedroSFreire/Push-The-Pull" >
@@ -55,7 +55,7 @@ Some of my prefered projects from games to graphics programing in my thesis
   <b>Unity, C#</b>
   <p>Developed for a  gamejam. Buy and upgrade tiles to improve your revenue. You have 10 years to reach your goal.</p>
 </p>
-</br></br>
+</br>
 
 <p align="left">
   <a href="https://github.com/FranciscoMSousa/P3D" >
