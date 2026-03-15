@@ -1,25 +1,58 @@
 # Pedro Freire 
-**`Software and Game Developer`**
-
-I am passionate about problem solving and graphics/engine algorithms.
-- Recently graduated with a Master's Degree in Computer Science, with a final grade of **18/20** on my thesis.
-- I have enjoyed my experience with game development be it subjects projects or in gamejams.
-- Currently working on medical imaging research to segment the colon and achieve high quality VR colonography with geometry based and CNN based methods
 
 
-### Languages and Tools
-C/C++, C#  
-Python   
-Slang(GPU)       
-Unity
+Hi, I'm Pedro a C++ developer interested in real-time rendering, graphics programming, and engine development.
+
+## 🚧 Current Project
+
+### VkEngine – Vulkan Rendering Engine
+
+I am currently developing a real-time rendering engine in modern C++ using the Vulkan graphics API.
+
+Features implemented so far:
+
+- Forward physically based rendering (PBR)
+- Image-based lighting (IBL)
+- glTF 2.0 asset loading
+- Scene graph system
+- GPU resource manager
+- RAII Vulkan object wrappers
+- Environment map preprocessing
+- Dear ImGui debugging interface
+
+The goal of this project is to explore modern real-time rendering techniques and gain experience with low-level GPU programming and engine architecture.
 
 
+<p align="left">
+  <a href="https://github.com/PedroSFreire/VkEngine" >
+    <img alt="PushPull" src="./img/sampleRender.png" height="150" align="left"/>
+  </a>
+  <img alt="empty" src="./img/empty.png" height="150" width="10" align="left"/>
+  
+  <h3><a href="https://github.com/PedroSFreire/VkEngine" >VkEngine</a></h3>
+  <b>c++</b>
+  <p>My real-time rendering engine in modern C++ using the Vulkan graphics API.</p>
+</p>
+</br>
 
----
-<details open> 
-<summary><h1>Projects</h3></summary>
-Some of my prefered projects from games to graphics programing in my thesis
 </br></br>
+
+## 🎓 Master's Thesis
+
+**Dynamic Many-Light Importance Sampling for Real-Time Ray Tracing**
+
+My master's thesis focused on improving many-light sampling for real-time ray tracing in NVIDIA's Falcor rendering framework.
+
+Main contributions:
+
+- Implemented a two-level Bounding Volume Hierarchy (BVH) for light sampling
+- Integrated the technique into Falcor
+- Used GPU programming and asynchronous techniques to achieve real-time performance
+
+This work resulted in a publication at IEEE VR Workshops.
+
+Paper: (https://dspace.zcu.cz/items/8f65433d-f8de-4201-aecb-43a7a3a1a4fd)
+
 
 <p align="left">
   <a href="https://github.com/PedroSFreire/FalcorLightBVH" >
@@ -29,10 +62,30 @@ Some of my prefered projects from games to graphics programing in my thesis
   
   <h3><a href="https://github.com/PedroSFreire/FalcorLightBVH" >Two-Level Light BVH in Nvidea's Falcor</a></h3>
   <b>c++</b>
-  <p>My theses where i implemented a Two-Level Light BVH to accelarate raytracing. Using Nvidea's Falcor engine as a base to upgrade.</p>
+  <p>My thesis, where i implemented a Two-Level Light BVH to accelarate raytracing. Using Nvidea's Falcor engine as a base to upgrade.</p>
 </p>
 </br>
+</br></br>
+
+</br></br>
+
+### Languages and Tools
+## 
+C++,
+Slang,GLSL      
+Python,   
+C#, 
+RenderDoc, 
+Unity
+
+
+
+---
+
+
   
+<details open>  
+<summary><h1>Projects</h3></summary> 
 <p align="left">
   <a href="https://github.com/PedroSFreire/Push-The-Pull" >
     <img alt="PushPull" src="./img/PushPullSample.png" height="150" align="left"/>
@@ -82,6 +135,12 @@ Some of my prefered projects from games to graphics programing in my thesis
 <br></br>
 
 
+
+
+
+
+
+</details>
 
 
 
