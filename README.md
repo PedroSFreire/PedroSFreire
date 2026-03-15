@@ -97,6 +97,7 @@ Unity
   <p>Developed for a gamejam. Manipulate objects and yourself by pulling and pushing on objects and figure out every Puzzle room.</p>
 </p>
 </br>
+</br>
 
 <p align="left">
   <a href="https://github.com/PedroSFreire/Consequence-GamesForGoodJam" >
@@ -108,6 +109,7 @@ Unity
   <b>Unity, C#</b>
   <p>Developed for a  gamejam. Buy and upgrade tiles to improve your revenue. You have 10 years to reach your goal.</p>
 </p>
+</br>
 </br>
 
 <p align="left">
@@ -121,6 +123,7 @@ Unity
   <p>A cpu only Whitted raytracer using OpenGL, developed for a subject.</p>
 </p>
 <br></br>
+</br>
 
 <p align="left">
   <a href="https://github.com/FranciscoMSousa/P3D" >
